@@ -1,4 +1,4 @@
-# React Simple Shopping Cart with Project Context API
+# React Simple Shopping Cart Project using Context API
 
 
 <h4>Simple Shopping Cart Project by using Context Api in React JS.
