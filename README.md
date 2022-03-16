@@ -1,7 +1,7 @@
 # React Simple Shopping Cart with Project Context API
 
 
-<h3>simple Shopping Cart Project by using Context Api in React JS.
+<h3>Simple Shopping Cart Project by using Context Api in React JS.
   <br/>
   For learning Context API hooks such as useContext and createContext in React JS.</h3>
 
